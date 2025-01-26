@@ -1,0 +1,18 @@
+userName: ritikapal_BHilpg
+accessKey: ug5hsSqACLpspy4U5NvD
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Edge
+    browserVersion: latest
+browserstackLocal: true
+buildName: bstack-Assignment
+buildIdentifier: bstack-demo 1
+projectName: Browserstackritika example
+debug: true
+networkLogs: true
+consoleLogs: info
